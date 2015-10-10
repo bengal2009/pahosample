@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lin\AndroidStudioProjects\PahoExam\app\src\main\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="C:\Users\Lin\AndroidStudioProjects\PahoExam\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2-b0cc38b42a27e589ccc909357feb5d7b994b2aad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Lin\AndroidStudioProjects\PahoExam\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-ac67f3761984dffb312fb56bf65813ffbd0cf81d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lin\AndroidStudioProjects\PahoExam\app\src\main\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="442f81337cb942a855ab20a4a16bfe43adb612c7">
+        <dex dex="C:\Users\Lin\AndroidStudioProjects\PahoExam\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-1.0.2-51469450dfc80af8d538217ed544fba73c907910.jar" />
+    </item>
+
+</items>
